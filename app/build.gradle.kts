@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.post4_403"
+    namespace = "com.example.post4_360"
     compileSdk = 36  // ✅ ubah ke 35 karena kamu belum punya API 36
 
     defaultConfig {
-        applicationId = "com.example.post4_403"
+        applicationId = "com.example.post4_360"
         minSdk = 24
         targetSdk = 36  // ✅ juga ubah ke 35
         versionCode = 1
