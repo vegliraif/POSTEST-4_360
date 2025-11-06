@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.POST4_403">
+        android:theme="@style/Theme.POST4_360">
         <activity
             android:name="com.example.post4_360.MainActivity"
             android:exported="true">
