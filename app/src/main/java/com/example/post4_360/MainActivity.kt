@@ -5,7 +5,7 @@ import android.widget.*
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
-import com.example.post4_403.R
+import com.example.post4_360.R
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
